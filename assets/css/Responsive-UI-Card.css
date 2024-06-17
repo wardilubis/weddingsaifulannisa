@@ -1,0 +1,263 @@
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.blog-card-blog {
+  margin-top: 30px;
+}
+
+.blog-card {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  margin-bottom: 30px;
+  border-radius: 6px;
+  color: rgba(0, 0, 0, 0.87);
+  background: #fff;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.blog-card .blog-card-image {
+  height: 60%;
+  position: relative;
+  overflow: hidden;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: -30px;
+  border-radius: 6px;
+  box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.blog-card .blog-card-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  pointer-events: none;
+}
+
+.blog-card .blog-table {
+  padding: 15px 30px;
+}
+
+.blog-table {
+  margin-bottom: 0px;
+}
+
+.blog-category {
+  position: relative;
+  line-height: 0;
+  margin: 15px 0;
+}
+
+.blog-text-success {
+  color: #6f6f6f!important;
+}
+
+.blog-card-blog .blog-card-caption {
+  margin-top: 5px;
+}
+
+.blog-card-caption {
+  font-weight: 700;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+.blog-card-caption, .blog-card-caption a {
+  color: #333;
+  text-decoration: none;
+}
+
+p {
+  color: #3C4857;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.blog-card .ftr {
+  margin-top: 15px;
+}
+
+.blog-card .ftr .author {
+  color: #888;
+}
+
+.blog-card .ftr div {
+  display: inline-block;
+}
+
+.blog-card .author .avatar {
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.blog-card .ftr .stats {
+  position: relative;
+  top: 1px;
+  font-size: 14px;
+}
+
+.blog-card .ftr .stats {
+  float: right;
+  line-height: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#ornamen1 {
+  z-index: 1;
+}
+
+#ornamen2 {
+  z-index: 2;
+}
+
+#salam-arab {
+  color: rgb(0,0,0);
+  border-style: none;
+}
+
+#pembukaan-1 {
+  font-size: 23px;
+  background: rgba(255,255,255,0.61);
+}
+
+#pembukaan-2 {
+  font-size: 23px;
+  background: rgba(255,255,255,0.61);
+}
+
+#col-salam {
+  text-align: center;
+}
+
+#row-salam {
+  padding-bottom: 15px;
+}
+
+#pembukaan-3 {
+  font-size: 20px;
+  font-family: 'Dancing Script', serif;
+  background: rgba(255,255,255,0.61);
+}
+
+#cont-salam {
+}
+
+#waktu-lokasi {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+#loc1 {
+  z-index: 1;
+}
+
+#loc2 {
+  z-index: 2;
+}
+
+#loc3 {
+  z-index: 3;
+}
+
+#loc4 {
+  z-index: 4;
+}
+
+#loc5 {
+  z-index: 5;
+}
+
+#loc6 {
+  z-index: 6;
+}
+
+#hero1 {
+  z-index: 1;
+}
+
+#hero2 {
+  z-index: 2;
+}
+
+#hero3 {
+  z-index: 3;
+}
+
+#hero4 {
+  z-index: 4;
+}
+
+#hero-box {
+  z-index: 5;
+}
+
+#home {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+#hero5 {
+  z-index: 5;
+}
+
+#gmaps-button {
+  z-index: 7;
+  position: absolute;
+}
+
+#cont-denah {
+  z-index: 3;
+}
+
+#row-denah-but {
+  text-align: center;
+  padding-top: 10%;
+}
+
+#button-gmaps {
+  background: rgb(103,132,125);
+  border-style: none;
+}
+
+#button-gmaps {
+  z-index: 4;
+  position: absolute;
+}
+
+#div-maps {
+  z-index: 5;
+}
+
+#row-heading-denah {
+  padding-top: 20%;
+}
+
+#heading-denah {
+  font-size: 35px;
+  font-family: 'Kaushan Script', serif;
+  color: #b59410;
+  text-shadow: -4px 8px 8px #67847e;
+}
+
+#sec-galery {
+  background: url("../../assets/img/bg1.webp") center / cover;
+  margin-top: 0px;
+}
+
+#our-moment {
+  font-family: 'Kaushan Script', serif;
+  color: #b59410;
+  text-shadow: -4px 4px 5px;
+  font-size: 30px;
+}
+

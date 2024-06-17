@@ -1,0 +1,85 @@
+.fbox3 > div[class*="col"] {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#hari-acara {
+  font-family: 'Dancing Script', serif;
+  font-weight: bold;
+  color: #b59410;
+  font-size: 30px;
+}
+
+#online-gift {
+  width: 100%;
+  height: auto;
+}
+
+#rek-bsi {
+  width: 160px;
+  height: auto;
+}
+
+#col-rek-teks {
+  height: 27px;
+  padding-top: 3px;
+  margin-top: 9px;
+}
+
+#rek-bca-1 {
+  width: 60%;
+}
+
+#rek-bsi-1 {
+  width: 130px;
+}
+
+#heading-online-gift {
+}
+
+#cont-gift {
+  background: url("../../assets/img/bg3.webp") center / cover no-repeat;
+  width: 100%;
+  height: auto;
+}
+
+#footer-saifulasa {
+}
+
+#teks-saifulasa {
+  font-family: 'Imperial Script', serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(255,255,255);
+}
+
+#undangan-home {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/bg3.webp") center / cover no-repeat;
+}
+
+#nama-undangan {
+  font-family: 'Ysabeau Infant', sans-serif;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+div {
+}
+
+#undangan-cont {
+}
+
+#ucapan-doa {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/bg1.webp") center;
+}
+
+#ucapan-section {
+  width: 100%;
+  min-height: 40vh;
+  background: url("../../assets/img/bg1.webp") center;
+}
+

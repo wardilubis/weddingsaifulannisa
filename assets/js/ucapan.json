@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nama": "John Doe",
+    "komentar": "Selamat atas pernikahan kalian!",
+    "konfirmasi": true
+  },
+  {
+    "id": 2,
+    "nama": "Jane Smith",
+    "komentar": "Semoga menjadi keluarga yang bahagia.",
+    "konfirmasi": false
+  }
+]
